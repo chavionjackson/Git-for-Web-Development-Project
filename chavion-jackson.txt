@@ -1,106 +1,148 @@
-https://codepen.io/chevy-jackson/pen/ZEBBEXY
+https://codepen.io/chevy-jackson/full/dyONbBY
 
-    1. What is Semantic HTML? Easy to identify tags and the placement.
+    1. What is Semantic HTML? 
+    Easy to identify tags and the placement.
 
-    2. What is HTML used for? Hyper text markup language, used to create webpages.
+    2. What is HTML used for? 
+    Hyper text markup language, used to create webpages.
 
-    3. What is an attribute and where do we put it? Attribute is the information of the tag. Follows behind the opening tag.
+    3. What is an attribute and where do we put it? 
+    Attribute is the information of the tag. Follows behind the opening tag.
 
-    4. What is the h1 tag used for? How many times should I use it on a page? H1 identifies the most important header on the page. Can be used multiple times. Should use once.
+    4. What is the h1 tag used for? How many times should I use it on a page? 
+    H1 identifies the most important header on the page. Can be used multiple times. Should use once.
 
-    5. Name two tags that have required attributes. Img, A
+    5. Name two tags that have required attributes. 
+    Img, A
 
-    6. What do we put in the head of our HTML document? Title, not seen on page but seen by browser.
+    6. What do we put in the head of our HTML document? 
+    Title, not seen on page but seen by browser.
 
-    7. What is an id? Specifies an id for an element.
+    7. What is an id? 
+    Specifies an id for an element.
 
-    8. What elements can I add an id to? Any
+    8. What elements can I add an id to? 
+    Any
 
-    9. How many times can I use the same id on a page? None
+    9. How many times can I use the same id on a page? 
+    None
 
-    10. What is a class? Specifies one or more classes to elements.
+    10. What is a class? 
+    Specifies one or more classes to elements.
 
-    11. What elements can I add a class to? Any
+    11. What elements can I add a class to? 
+    Any
 
-    12. How many times can I use the same class on a page? Multiple 
+    12. How many times can I use the same class on a page? 
+    Multiple 
 
-    13. How do I get my link to open in a new tab? By assigning an website url to an A tag.
+    13. How do I get my link to open in a new tab? 
+    By assigning an website url to an A tag.
 
-    14. What is the alt attribute in the image tag used for? Alternative text for an image if reader is unable to view. 
+    14. What is the alt attribute in the image tag used for? 
+    Alternative text for an image if reader is unable to view. 
 
-    15. How do I reference an id? Through CSS with # symbol
+    15. How do I reference an id? 
+    Through CSS with # symbol
 
-    16. What is the difference between a section and a div. Section is a semantic tag used to create sections and div can be applied for multiple purposes.
+    16. What is the difference between a section and a div. 
+    Section is a semantic tag used to create sections and div can be applied for multiple purposes.
 
-    17. What is CSS used for? Styling
+    17. What is CSS used for? 
+    Styling
 
-    18. How do we select an element? Example - every h2 on the page. By placing the tag first of any element you want to style. For this example it would be h2 {}
+    18. How do we select an element? Example - every h2 on the page. 
+    By placing the tag first of any element you want to style. For this example it would be h2 {}
 
-    19. What is the difference between a class and an id? - Give me an example of when I might use each one. A class is CSS style being applied to multiple elements and id is style applied only to one. A class may be used for all of the images on a page. An id may be applied to some contact info on a website. 
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one. 
+    A class is CSS style being applied to multiple elements and id is style applied only to one. A class may be used for all of the images on a page. An id may be applied to some contact info on a website. 
 
-    20. How do we select classes in CSS? By placing . In front of the class name.
+    20. How do we select classes in CSS? 
+    By placing . In front of the class name.
 
-    21. How do we select a p element with a single class of “human””? P .human
+    21. How do we select a p element with a single class of “human””? 
+    P .human
 
-    22. What is a parent child selector? When would this be useful? The parent child selector is a way of coding that points to the element inside of a main element. The parent is the main and the child elements are contained inside. This is useful for large amounts of code to point the way for a developer changing any coding or design.
+    22. What is a parent child selector? When would this be useful? 
+    The parent child selector is a way of coding that points to the element inside of a main element. The parent is the main and the child elements are contained inside. This is useful for large amounts of code to point the way for a developer changing any coding or design.
 
 
-    23. How do you select all links within a div with the class of sidebar? Div .sidebar a {}
+    23. How do you select all links within a div with the class of sidebar? 
+    Div .sidebar a {}
 
-    24. What is a pseudo selector? For elements in a special state. Example hover or clicked.
+    24. What is a pseudo selector? 
+    For elements in a special state. Example hover or clicked.
 
-    25. What do we use the change the spacing between lines? Line-height
+    25. What do we use the change the spacing between lines? 
+    Line-height
 
-    26. What do we use to change the spacing between letters? Letter-spacing.
+    26. What do we use to change the spacing between letters? 
+    Letter-spacing.
 
-    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? Text-transformation followed by uppercase, lowercase, or capitalize. 
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? 
+    Text-transformation followed by uppercase, lowercase, or capitalize. 
 
-    28. How do I add a 1px border around my div that is dotted and black? Border 1px dotted black.
+    28. How do I add a 1px border around my div that is dotted and black? 
+    Border 1px dotted black.
 
-    29. How do I select everything on the page? Universal *
+    29. How do I select everything on the page? 
+    Universal *
 
-    30. How do I write a comment in CSS? /*Insert Text Here */
+    30. How do I write a comment in CSS? 
+    /*Insert Text Here */
 
-    31. How do I find out what file I am in, when I am using the command line? Pwd
+    31. How do I find out what file I am in, when I am using the command line? 
+    Pwd
 
-    32. Using the command line - how do I see a list of files/folders in my current folder? Ls
+    32. Using the command line - how do I see a list of files/folders in my current folder? 
+    Ls
 
-    33. How do I remove a file via the command line? Why do I have to be careful with this? Rm, because it doesn't warn you.
+    33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    Rm, because it doesn't warn you.
  
-    34. Why should I use version control? helpful when working with a team of developers
+    34. Why should I use version control? 
+    helpful when working with a team of developers
 
-    35. How often should I commit to github? Often, whenever something new is added.
+    35. How often should I commit to github? 
+    Often, whenever something new is added.
 
-    36. What is the command we would use to push our repo up to github? Push origin
+    36. What is the command we would use to push our repo up to github? 
+    Push origin
 
     37. Walk me through Lambda's git flow. 
+    Fork your repo
+    Add TL in Settings, Manage Access, Invite a Collaborator
+    Clone the repo by clicking the copy to clipboard button
+    Move into the directory you want to hold the new cloned repo
+    Type git clone then paste the repo link
+    Cd into new repo
+    Type git checkout -b "Clare-Jackson"
+    Work on the repo
+    Type git add . To add new changes to the repo
+    Type git commit -m "message here" to commit changes to the repo after significant task
+    Then push all commits from my pc to Github with git push -u origin Clare-Jackson
+    Then refresh to see the branch
+    Click Branch:master or switch from main to select my name branch
+    Then click New Pull Request
+    Change base repository dropdown to the forked repo
+    Add TL as a Reviewer and write a message, then submit
 
-Fork your repo
-Add TL in Settings, Manage Access, Invite a Collaborator
-Clone the repo by clicking the copy to clipboard button
-Move into the directory you want to hold the new cloned repo
-Type git clone then paste the repo link
-Cd into new repo
-Type git checkout -b "Clare-Jackson"
-Work on the repo
-Type git add . To add new changes to the repo
-Type git commit -m "message here" to commit changes to the repo after significant task
-Then push all commits from my pc to Github with git push -u origin Clare-Jackson
-Then refresh to see the branch
-Click Branch:master or switch from main to select my name branch
-Then click New Pull Request
-Change base repository dropdown to the forked repo
-Add TL as a Reviewer and write a message, then submit
+
 
 
 Stretch Questions
 
-    1. What is the difference between an inline element and a block element? inline element is put within a line without creating a new line. A block element creates its own line.
+    1. What is the difference between an inline element and a block element? 
+    inline element is put within a line without creating a new line. A block element creates its own line.
 
-    2. What happens when an element is positioned absolutely? It is positioned relative to the ancestor element, or first parent element.
+    2. What happens when an element is positioned absolutely? 
+    It is positioned relative to the ancestor element, or first parent element.
 
-    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? Inline-block
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    Inline-block
 
-    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default. P, Div, Section / Span, A / Button
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default. 
+    P, Div, Section / Span, A / Button
 
-    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? Box model is called from CSS. It consist of a content which is the text or image of the box, padding which is the space between the content. Border which is outside of the padding and Margin which is the space outside the border. To respect the width we must make inline elements inline-block elements. 
+    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+    Box model is called from CSS. It consist of a content which is the text or image of the box, padding which is the space between the content. Border which is outside of the padding and Margin which is the space outside the border. To respect the width we must make inline elements inline-block elements. 
